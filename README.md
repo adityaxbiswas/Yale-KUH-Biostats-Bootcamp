@@ -6,7 +6,7 @@ Session 1
 Session 2
   - Univariate Exploratory Analysis Continued
   - Bivariate Exploratory Analysis
-  - Intro to Probability Concepts
+  - Intro to Probability Concepts and Simulation
 
 Session 3
   - The Null-Hypothesis Testing Framework
