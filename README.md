@@ -2,10 +2,12 @@ Session 1
   - Basics of programming with R and its Data Structures
   - Loading the dataset / Intro to Medical EHR data
   - Univariate Exploratory Analysis
+
 Session 2
   - Univariate Exploratory Analysis Continued
   - Bivariate Exploratory Analysis
   - Intro to Probability Concepts
+
 Session 3
   - The Null-Hypothesis Testing Framework
   - Continuous-Continuous Tests
@@ -13,6 +15,7 @@ Session 3
   - Discrete-Discrete Tests
   - Power and Sample Size Calculation
   - Issues with Multiple Testing
+
 Session 4
   - Intro to Estimation Concepts
   - The Basic Linear Model
@@ -21,6 +24,7 @@ Session 4
   - Multivariate Adjustment and Model Diagnostics
   - Flexible Modeling (Basis expansions, etc...)
   - Relaxing Assumptions
+
 Session 5
   - Frisch-Waugh-Lowell Theorem
   - Quantile Regression
